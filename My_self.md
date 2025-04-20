@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajkamalj9
+- 👋 Hi, I’m Rajkamal Jaiswar
 - 👀 I’m interested in Data Analystics
 - 🌱 I’m currently learning Data Science and Analystic with AI
 - 📫 Reach me Rajkamalj9@outlook.com
