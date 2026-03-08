@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajkamal Jaiswar</h1>
 <h3 align="center">Aspiring Data Analyst | Excel & Power BI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkamalj9&label=Profile%20views&color=0e75b6&style=flat" alt="rajkamalj9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkamalj9" alt="rajkamalj9" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science & Analytics with AI**
 
 - 📫 How to reach me **rajkamalj9@outlook.com**
